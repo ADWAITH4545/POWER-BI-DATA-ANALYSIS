@@ -1,8 +1,8 @@
 # PowerBI-Data-Analysis-Project-
 
-1.Financial Sales Analysis Dashboard
-
 Document Name:Data Analysis.pbix
+
+1.Financial Sales Analysis Dashboard
 
 Description: This Power BI document provides an interactive financial sales analysis dashboard, offering insights into sales performance, profit analysis, and key metrics. The dashboard is designed to facilitate data-driven decision-making, enabling users to analyze sales trends by country, product, segment, price, discount, and other critical factors.
 
